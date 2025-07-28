@@ -16,6 +16,7 @@ A 6-7 minute video script is included to explain the insights, ideal for reporti
 
 ## 📁 Files Included
 -shield insurance dashboard-<img width="1317" height="724" alt="Image" src="https://github.com/user-attachments/assets/6e5be016-d210-4258-a0b4-dbdf66980263" />
+📊 𝐋𝐢𝐯𝐞 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 :https://shorturl.at/jsiLF
 
 
 ## 🧠 Key Insights
@@ -34,12 +35,12 @@ A 6-7 minute video script is included to explain the insights, ideal for reporti
 ## 🛠️ Tools Used
 - Power BI
 - Excel/CSV data sources
-- Script created with help of AI (ChatGPT)
+- 
 
 ## 📌 Author
 **Abhay Kumar**  
 MBA | Data Analyst | Passionate about data-driven storytelling  
-[LinkedIn Profile](#) *(Add your actual link here)*
+
 
 ---
 
