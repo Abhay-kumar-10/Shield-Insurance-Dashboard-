@@ -15,7 +15,8 @@ The Power BI dashboard visualizes:
 A 6-7 minute video script is included to explain the insights, ideal for reporting, presentations, or stakeholder meetings.
 
 ## 📁 Files Included
--![Shield Insurance Dashboard](shield insurance dashboard.png.png)
+-shield insurance dashboard.png.png
+
 
 
 ## 🧠 Key Insights
